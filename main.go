@@ -11,4 +11,5 @@ func main() {
 	fmt.Println("psst ur mom")
 
 	fmt.Println("a")
+	fmt.Println("b")
 }
