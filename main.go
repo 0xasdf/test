@@ -26,3 +26,7 @@ func main() {
 	fmt.Println("5")
 	fmt.Println("6")
 }
+
+func unused() {
+	fmt.Println("this is unused, but whatever")
+}
