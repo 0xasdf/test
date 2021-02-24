@@ -30,3 +30,8 @@ func main() {
 	fmt.Println("9")
 	fmt.Println("10")
 }
+
+
+func nine() {
+	fmt.Println("nine")
+}
