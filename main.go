@@ -19,4 +19,6 @@ func main() {
 	fmt.Println("e")
 
 	fmt.Println("0")
+	fmt.Println("1")
+	fmt.Println("2")
 }
