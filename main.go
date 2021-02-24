@@ -35,3 +35,7 @@ func main() {
 func nine() {
 	fmt.Println("nine")
 }
+
+func ten() {
+	fmt.Println("ten")
+}
