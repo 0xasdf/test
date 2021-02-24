@@ -17,4 +17,6 @@ func main() {
 	fmt.Println("g")
 	fmt.Println("d")
 	fmt.Println("e")
+
+	fmt.Println("0")
 }
