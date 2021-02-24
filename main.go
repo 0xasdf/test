@@ -29,4 +29,5 @@ func main() {
 
 func unused() {
 	fmt.Println("this is unused, but whatever")
+	fmt.Println("asdf")
 }
