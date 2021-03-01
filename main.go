@@ -31,4 +31,5 @@ func main() {
 	fmt.Println("10")
 
 	fmt.Println("m1")
+	fmt.Println("m2")
 }
