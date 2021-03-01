@@ -34,3 +34,12 @@ func main() {
 	fmt.Println("m2")
 	fmt.Println("m3")
 }
+
+
+func nine() {
+	fmt.Println("nine")
+}
+
+func ten() {
+	fmt.Println("ten")
+}
