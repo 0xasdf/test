@@ -47,3 +47,7 @@ func nine() {
 func ten() {
 	fmt.Println("ten")
 }
+
+func m() {
+	fmt.Println("m")
+}
