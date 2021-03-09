@@ -35,6 +35,7 @@ func main() {
 	fmt.Println("m3")
 
 	fmt.Println("new 1")
+	fmt.Println("new 2")
 }
 
 
