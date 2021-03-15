@@ -37,6 +37,11 @@ func main() {
 	fmt.Println("new 1")
 	fmt.Println("new 2")
 	fmt.Println("new 3")
+
+	fmt.Println("c1")
+	fmt.Println("c2")
+
+	fmt.Println("c3")
 }
 
 
