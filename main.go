@@ -40,6 +40,8 @@ func main() {
 
 	fmt.Println("c1")
 	fmt.Println("c2")
+
+	fmt.Println("c3")
 }
 
 
